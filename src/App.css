@@ -1,5 +1,16 @@
 .App {
   text-align: center;
+  color:dodgerblue;
+}
+
+.Karla {
+  text-align: center;
+  color:rgb(49, 127, 75);
+}
+
+.Mascota{
+  color: orange;
+  text-align: center;
 }
 
 .App-logo {
